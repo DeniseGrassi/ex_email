@@ -47,7 +47,18 @@ Template desenvolvido considerando compatibilidade com:
 - ✔️ Apple Mail
 - ✔️ Webmail e clientes móveis
 
----
+- ## 🚀 Como Utilizar
 
-## 📂 Estrutura do Projeto
+1. Clone o repositório:
+```bash
+git clone https://github.com/DeniseGrassi/ex_email.git
+2. Abra o arquivo index.html em um navegador ou editor de código.
+
+3. O HTML pode ser utilizado diretamente em:
+  Ferramentas de e-mail marketing
+  Plataformas como Salesforce Marketing Cloud
+  Testes de renderização em clientes de e-mail
+
+
+
 
